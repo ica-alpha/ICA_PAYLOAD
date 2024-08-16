@@ -25,7 +25,7 @@ echo -e ${CP}"                                                                  
 echo -e ${CNC}"   An Advnaced Tool To Generate Payloads For All Types Of OS             #"
 echo -e ${NEW}"         Generate Payloads For All OS in Seconds                         #"
 echo -e ${CP}"     Follow Me On:  ${CPO}Instagram: islamic_cyber_association                 #"
-echo -e ${CP}"                      ${PINK}Website: icahelp.wixsite.main                      #"
+echo -e ${CP}"                      ${PINK}Website: icahelp.wixsite.com/main                      #"
 echo -e ${YELLOW}"                       Coded By :  ${CP}ICA_ALPHA                             #"
 echo -e ${RED}"################################################################################\n"
    
