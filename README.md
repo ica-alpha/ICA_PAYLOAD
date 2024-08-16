@@ -5,6 +5,8 @@
 
 # Usage:
     Open Terminal And Then Type:  bash ica_payload.sh
+# Remove:
+    1. rm -rf ICA_PAYLOAD
 # Note:
     1. Android Payload Extension ( target.apk)
     2. Windows Payload Extension (target.exe)
