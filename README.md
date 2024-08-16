@@ -1,7 +1,7 @@
 # Installation:
-     1. First use git clone 
+     1. git clone https://github.com/ica-alpha/ICA_PAYLOAD.git
      2. chmod +x mafia.sh
-     3. cd ica_payload
+     3. cd ICA_PAYLOAD
 
 # Usage:
     Open Terminal And Then Type:  bash ica_payload.sh
